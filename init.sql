@@ -1,0 +1,2 @@
+CREATE USER ubuntu;
+ALTER USER ubuntu WITH SUPERUSER;
